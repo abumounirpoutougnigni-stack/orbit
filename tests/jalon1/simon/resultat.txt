@@ -1,0 +1,16 @@
+ Résultat jalon 1 : simon
+
+- Date : 2026-11-20
+- Windows (winver) : Windows 11 (Build XXXXX)
+- Édition et langue : Microsoft Windows 11 Professionnel, fr-FR (1036)
+- Python (python --version) : Python 3.15.2
+- PostgreSQL (version installée) : PostgreSQL 18.7
+- Audit « Ouverture de session » : oui (Succès et échec)
+- Nombre de 4625 pour labo_test : 5
+- Type de connexion observé : 3
+- Heure de la première tentative : 2026-11-20 12:54:56
+- Export PowerShell : OK (OK : 5 evenement(s) exporte(s) vers tests/evenements-4625.json)
+- Lecture Python : OK (5 événement(s) 4625 lu(s))
+- Connexion PostgreSQL : OK (orbit_dev=>)
+- Problèmes rencontrés et solutions :
+- Heures passées sur le jalon :
